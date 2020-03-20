@@ -1,0 +1,2 @@
+rootProject.name='RDGridView'
+include ':app'
